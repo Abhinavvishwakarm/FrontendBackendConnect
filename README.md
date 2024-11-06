@@ -1,5 +1,5 @@
  1 Description About Project  
-                 The Books Application is a simple application that allows users to manage their notes. The application is built using Express for the backend (API) and Vue 3 for the frontend. The backend exposes an API to fetch books details, while the frontend displays and interacts with this data.
+                 The Books Application is a simple application that allows users to manage their books. The application is built using Express for the backend (API) and Vue 3 for the frontend. The backend exposes an API to fetch books details, while the frontend displays and interacts with this data.
  2 Technologies Used
    Backend:
 
